@@ -7,8 +7,9 @@ Um breve vídeo de um Dragão criado por uma IA
  - Runway AI
 
 ## 🧐 Processo de Criação
- - Criei o vídeo através de um imput, text to video.
+ - Criei o primeiro vídeo através de um imput, text to video.
+ - Criei o segundo vídeo através de um imput, image to video.
 
 ## 🚀 Resultados
-- O resultado(video) foi adicionado a esse repositório.
+- O resultado(videos) foram adicionado a esse repositório.
 
